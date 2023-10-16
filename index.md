@@ -4,6 +4,8 @@ layout: default
 
 [[Home]](./index.html) - [[Papers]](./another-page.html) - [[Others]](./another-page.html) - [[About]](./another-page.html) 
 
+I'm Xi Zhang. <img src="ocas-logo.png" title="logo" height="80" width="80">
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
