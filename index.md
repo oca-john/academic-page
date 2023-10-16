@@ -4,7 +4,9 @@ layout: default
 
 [[Home]](./index.html) - [[Papers]](./another-page.html) - [[Others]](./another-page.html) - [[About]](./another-page.html) 
 
-<img src="ocas-logo.png" title="logo" height="40" width="40"> I'm Xi Zhang. Welcome to my academic page.
+<img src="ocas-logo.png" title="logo" height="40" width="40"> I'm Xi Zhang. 
+
+Welcome to my academic page.
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
