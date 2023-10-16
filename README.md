@@ -13,13 +13,6 @@ title: [The title of your site]
 description: [A short description of your site's purpose]
 ```
 
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
-
 ### Stylesheet
 
 If you'd like to add your own custom styles:
