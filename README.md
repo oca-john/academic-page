@@ -4,7 +4,7 @@
 
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
-![Thumbnail of Hacker](thumbnail.png)
+<img src="ocas-logo.png" title="logo" height="80" width="80">
 
 ## Usage
 
