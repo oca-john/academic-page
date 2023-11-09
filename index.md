@@ -2,7 +2,7 @@
 layout: default
 ---
 
-$~~~~$ [Home](./index.html) $~~~~~~~~$[Papers](./publications.html)$~~~~~~~~$[Projects](./projects.html)$~~~~~~~~$[Experience](./experience.html)$~~~~~~~~$[Plans](./plans.html)$~~~~~~~~$[About](./about.html)$~~~~$
+&emsp;&emsp;&emsp;&emsp;[Home](./index.html)&emsp;&emsp;&emsp;&emsp;[Papers](./publications.html)&emsp;&emsp;&emsp;&emsp;[Projects](./projects.html)&emsp;&emsp;&emsp;&emsp;[Experience](./experience.html)&emsp;&emsp;&emsp;&emsp;[Plans](./plans.html)&emsp;&emsp;&emsp;&emsp;[About](./about.html)&emsp;&emsp;&emsp;&emsp;
 
 <img src="ocas-logo.png" title="logo" height="30" width="90">
 
