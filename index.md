@@ -4,7 +4,7 @@ layout: default
 
 &emsp;[&ensp;[Home](./index.html)&ensp;]&emsp;[&ensp;[Papers](./publications.html)&ensp;]&emsp;[&ensp;[Projects](./projects.html)&ensp;]&emsp;[&ensp;[Experience](./experience.html)&ensp;]&emsp;[&ensp;[Plans](./plans.html)&ensp;]&emsp;[&ensp;[About](./about.html)&ensp;]&emsp;
 
-<img src="ocas-logo.png" title="logo" height="40" width="90">
+<img src="ocas-logo.png" title="logo" height="35" width="90">
 
 I'm Xi Zhang. Welcome to my academic page!
 
