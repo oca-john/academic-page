@@ -1,6 +1,6 @@
 # Oca’s Academic Page
 
-<img src="ocas-logo.png" title="logo" height="20" width="60">
+<img src="ocas-logo.png" title="logo" height="30" width="90">
 
 ## Customizing
 
