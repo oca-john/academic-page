@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[[Home]](./index.html)  -  [[Papers]](./publications.html)  -  [[Projects]](./projects.html)  -  [[Experience]](./experience.html)  -  [[Plans]](./plans.html)  -  [[About]](./about.html) 
+-  [[Home]](./index.html)  -  [[Papers]](./publications.html)  -  [[Projects]](./projects.html)  -  [[Experience]](./experience.html)  -  [[Plans]](./plans.html)  -  [[About]](./about.html)  -
 
 <img src="ocas-logo.png" title="logo" height="40" width="40"> I'm Xi Zhang. 
 
