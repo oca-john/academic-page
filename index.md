@@ -2,7 +2,7 @@
 layout: default
 ---
 
-__.__|__.__[Home](./index.html)__.__|__.__[Papers](./publications.html)__.__|__.__[Projects](./projects.html)__.__|__.__[Experience](./experience.html)__.__|__.__[Plans](./plans.html)__.__|__.__[About](./about.html)__.__|__.__
+\ \ \ \ [Home](./index.html)\ \ \ \ |\ \ \ \ [Papers](./publications.html)\ \ \ \ |\ \ \ \ [Projects](./projects.html)\ \ \ \ |\ \ \ \ [Experience](./experience.html)\ \ \ \ |\ \ \ \ [Plans](./plans.html)\ \ \ \ |\ \ \ \ [About](./about.html)\ \ \ \ |\ \ \ \ 
 
 <img src="ocas-logo.png" title="logo" height="30" width="90">
 
