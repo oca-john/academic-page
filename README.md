@@ -1,9 +1,7 @@
-# Oca’s Academic Page
-
 Hello! I'm <img src="ocas-logo.png" title="logo" height="35" width="90">.
 
+# Oca’s Academic Page
 ## Customizing
-
 ### Configuration variables
 
 Hacker will respect the following variables, if set in your site's `_config.yml`:
