@@ -2,7 +2,7 @@
 layout: default
 ---
 
-|&emsp;[Home](./index.html)&emsp;|&emsp;[Papers](./publications.html)&emsp;|&emsp;[Projects](./projects.html)&emsp;|&emsp;[Experience](./experience.html)&emsp;|&emsp;[Plans](./plans.html)&emsp;|&emsp;[About](./about.html)&emsp;|
+&emsp;[&ensp;[Home](./index.html)&ensp;]&emsp;[&ensp;[Papers](./publications.html)&ensp;]&emsp;[&ensp;[Projects](./projects.html)&ensp;]&emsp;[&ensp;[Experience](./experience.html)&ensp;]&emsp;[&ensp;[Plans](./plans.html)&ensp;]&emsp;[&ensp;[About](./about.html)&ensp;]&emsp;
 
 ## Welcome to another page
 
