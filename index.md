@@ -1,7 +1,3 @@
----
-layout: default
----
-
 &emsp;[&ensp;[Home](./index.html)&ensp;]&emsp;[&ensp;[Papers](./papers.html)&ensp;]&emsp;[&ensp;[Projects](./projects.html)&ensp;]&emsp;[&ensp;[Experience](./experience.html)&ensp;]&emsp;[&ensp;[Plans](./plans.html)&ensp;]&emsp;[&ensp;[About](./about.html)&ensp;]&emsp;
 
 <img src="ocas-logo.png" title="logo" height="35" width="90">
