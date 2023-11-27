@@ -2,4 +2,4 @@ title: Xi Zhang's Academic Page
 # description: Xi Zhang's Academic Page.
 show_downloads: false
 # google_analytics:
-theme: jekyll-theme-hacker
+theme: rouge-base16-dark
